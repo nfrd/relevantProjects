@@ -1,3 +1,5 @@
 I implemented the files fsh.c and builtin.c to work with the rest of the code my Professor provided. 
 The code in fsh.c inclues fork/exec/wait, I/O redirection, and connectives.
 The code in builtin.c deals with the command, cd. 
+
+The Makefile compiles the mock unix system to an executable named fsh (feeble shell).
